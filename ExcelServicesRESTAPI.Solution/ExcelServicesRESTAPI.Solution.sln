@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelServicesRESTAPI.Web", "ExcelServicesRESTAPI.Web\ExcelServicesRESTAPI.Web.csproj", "{8041CD93-9DF8-48DA-BAE4-4A6530B6BF42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{6B361B16-5360-48E1-9501-6EB9263C4A2B}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\AzureWebsitePublishModule.psm1 = PublishScripts\AzureWebsitePublishModule.psm1
+		PublishScripts\Publish-WebApplicationWebsite.ps1 = PublishScripts\Publish-WebApplicationWebsite.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configurations", "{A5F7BF1F-F9F6-4ECD-B94E-D2AC46D15CFE}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Configurations\ExcelServicesRESTAPIWeb-WAWS-dev.json = PublishScripts\Configurations\ExcelServicesRESTAPIWeb-WAWS-dev.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelServiicesRESTAPI.ConsoleApp", "ExcelServiicesRESTAPI.ConsoleApp\ExcelServiicesRESTAPI.ConsoleApp.csproj", "{837E1990-F4AA-4C14-98CB-B7F9E6E88B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8041CD93-9DF8-48DA-BAE4-4A6530B6BF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8041CD93-9DF8-48DA-BAE4-4A6530B6BF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8041CD93-9DF8-48DA-BAE4-4A6530B6BF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8041CD93-9DF8-48DA-BAE4-4A6530B6BF42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837E1990-F4AA-4C14-98CB-B7F9E6E88B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837E1990-F4AA-4C14-98CB-B7F9E6E88B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837E1990-F4AA-4C14-98CB-B7F9E6E88B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837E1990-F4AA-4C14-98CB-B7F9E6E88B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A5F7BF1F-F9F6-4ECD-B94E-D2AC46D15CFE} = {6B361B16-5360-48E1-9501-6EB9263C4A2B}
+	EndGlobalSection
+EndGlobal

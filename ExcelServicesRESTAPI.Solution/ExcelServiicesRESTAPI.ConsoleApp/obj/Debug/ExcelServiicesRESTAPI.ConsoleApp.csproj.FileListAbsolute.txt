@@ -1,0 +1,6 @@
+C:\Users\dougl_000\Documents\Visual Studio 2015\Projects\ExcelServicesRESTAPI.Solution\ExcelServiicesRESTAPI.ConsoleApp\bin\Debug\ExcelServiicesRESTAPI.ConsoleApp.exe.config
+C:\Users\dougl_000\Documents\Visual Studio 2015\Projects\ExcelServicesRESTAPI.Solution\ExcelServiicesRESTAPI.ConsoleApp\obj\Debug\ExcelServiicesRESTAPI.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\dougl_000\Documents\Visual Studio 2015\Projects\ExcelServicesRESTAPI.Solution\ExcelServiicesRESTAPI.ConsoleApp\bin\Debug\ExcelServiicesRESTAPI.ConsoleApp.exe
+C:\Users\dougl_000\Documents\Visual Studio 2015\Projects\ExcelServicesRESTAPI.Solution\ExcelServiicesRESTAPI.ConsoleApp\bin\Debug\ExcelServiicesRESTAPI.ConsoleApp.pdb
+C:\Users\dougl_000\Documents\Visual Studio 2015\Projects\ExcelServicesRESTAPI.Solution\ExcelServiicesRESTAPI.ConsoleApp\obj\Debug\ExcelServiicesRESTAPI.ConsoleApp.exe
+C:\Users\dougl_000\Documents\Visual Studio 2015\Projects\ExcelServicesRESTAPI.Solution\ExcelServiicesRESTAPI.ConsoleApp\obj\Debug\ExcelServiicesRESTAPI.ConsoleApp.pdb
