@@ -10,6 +10,13 @@ https://douglasromao.wordpress.com/2015/05/09/consumindo-um-arquivo-excel-no-sha
 Parte 2 do Post:
 https://douglasromao.wordpress.com/2015/05/22/consumindo-um-arquivo-excel-no-sharepoint-online-com-excel-rest-api-parte-2
 
-Nesse segundo post mostro a criação do Projeto Console Application para requisitar os dados via Excel REST API.
+Nesse segundo post mostro a criação do Projeto Console Application no Visual Studio para requisitar os dados via Excel REST API.
 
-Nessa primeira versão estou usando um projeto Console Application do Visual Studio 2015 para consumir os dados de um arquivo excel hospedado no SharePoint Online, mas fiquem a vontade para postar projetos de outras formas e podemos ir complementando esse projeto para deixá-lo top!
+1. Abra o Visual Studio;
+2. File > New > Project > Console Application;
+3. Referencie as DLL´s do Microsoft.SharePoint.Client;
+
+Após isso coloque o código para a requisição (O código está na Parte 2 do Post)
+
+Iremos colocar aqui ainda outros modelos para formatar o resultado da requisição também, fiquem à vontade para contribuir!
+
